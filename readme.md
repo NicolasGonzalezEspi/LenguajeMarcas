@@ -1,8 +1,6 @@
-Descripción
 Este proyecto es un examen en el que se ha creado un currículum-portfolio utilizando HTML y CSS. 
 Se trata de una página web que incluye información personal, habilidades y proyectos desarrollados, todo ello organizado en distintas secciones.
 
-Características
 La página web cuenta con un menú de navegación en la parte superior que permite acceder a distintas secciones de la página.
 
 La página está estructurada en diferentes secciones: inicio, sobre mí, portfolio, servicios y contacto.
